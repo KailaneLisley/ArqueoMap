@@ -1,5 +1,5 @@
 # ArqueoMap - Sistema de Gestão de Achados Arqueológicos
-<img src="adapt/public/IdentidadeVisual/ADAPTlaranjasemfundo.png" alt="Identidade Visual do Projeto ADAPT" width="400">
+<img src="https://github.com/KailaneLisley/ArqueoMap/blob/main/ArqueoMap%20logo.png" alt="Logo do ArqueoMap" width="400">
 
 ## Visão Geral
 O ArqueoMap é uma plataforma de mapeamento com cadastro estruturado de achados. Ele centraliza tudo em um único ambiente:
