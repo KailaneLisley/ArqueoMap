@@ -91,9 +91,9 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
   </tr>
   <tr>
     <td align="center">
-      <img src="" width="100px" style="border-radius:50%;" alt="Filipe"/>
+      <img src="https://avatars.githubusercontent.com/u/166307239?v=4" width="100px" style="border-radius:50%;" alt="Caio Cordeiro"/>
     </td>
-    <td align="center">Filipe</td>
-    <td align="center"><a href="https://github.com">@</a></td>
+    <td align="center">Caio Cordeiro</td>
+    <td align="center"><a href="https://github.com/CaioCordeiroo">@</a></td>
   </tr>
 </table>
