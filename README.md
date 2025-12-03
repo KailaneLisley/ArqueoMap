@@ -55,10 +55,10 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ChristianLucas029.png" width="100px" style="border-radius:50%;" alt="Christian Lucas"/>
+      <img src="https://avatars.githubusercontent.com/u/127259528?v=4" width="100px" style="border-radius:50%;" alt="Teo Vieira"/>
     </td>
-    <td align="center">Christian Lucas</td>
-    <td align="center"><a href="https://github.com/ChristianLucas029">@ChristianLucas029</a></td>
+    <td align="center">Teo Vieira</td>
+    <td align="center"><a href="https://github.com/TheoVm">@theoVm</a></td>
   </tr>
   <tr>
     <td align="center">
