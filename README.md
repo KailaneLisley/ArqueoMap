@@ -48,6 +48,27 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
   </tr>
   <tr>
     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/169167539?v=4" width="100px" style="border-radius:50%;" alt="Luciano Henrique"/>
+    </td>
+    <td align="center">Luciano Henrique</td>
+    <td align="center"><a href="https://github.com/Lucci268">@Lucci268</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/153549853?v=4" width="100px" style="border-radius:50%;" alt="Samuel Ponciano"/>
+    </td>
+    <td align="center">Samuel Ponciano</td>
+    <td align="center"><a href="https://github.com/SamuelPonciano">@SamuelPonciano</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="" width="100px" style="border-radius:50%;" alt="Dayvson Henrique"/>
+    </td>
+    <td align="center">Dayvson Henrique</td>
+    <td align="center"><a href="https://github.com">@</a></td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://avatars.githubusercontent.com/u/169162345?v=4" width="100px" style="border-radius:50%;" alt="Daniel"/>
     </td>
     <td align="center">Daniel</td>
@@ -60,32 +81,19 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
     <td align="center">Teo Vieira</td>
     <td align="center"><a href="https://github.com/TheoVm">@theoVm</a></td>
   </tr>
+  
   <tr>
     <td align="center">
-      <img src="https://github.com/Diogogeo27.png" width="100px" style="border-radius:50%;" alt="Diogo Geovanni"/>
+      <img src="https://avatars.githubusercontent.com/u/161610783?v=4" width="100px" style="border-radius:50%;" alt="Pedro Mota"/>
     </td>
-    <td align="center">Diogo Geovanni</td>
-    <td align="center"><a href="https://github.com/Diogogeo27">@Diogogeo27</a></td>
+    <td align="center">Pedro Mota</td>
+    <td align="center"><a href="https://github.com/pep287">@jpep287</a></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/joaodafontequeiroz.png" width="100px" style="border-radius:50%;" alt="João Da Fonte"/>
+      <img src="" width="100px" style="border-radius:50%;" alt="Filipe"/>
     </td>
-    <td align="center">João Da Fonte</td>
-    <td align="center"><a href="https://github.com/joaodafontequeiroz">@joaodafontequeiroz</a></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Edrey123.png" width="100px" style="border-radius:50%;" alt="Edrey Miguel"/>
-    </td>
-    <td align="center">Edrey Miguel</td>
-    <td align="center"><a href="https://github.com/Edrey123">@Edrey123</a></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/addson18.png" width="100px" style="border-radius:50%;" alt="Addson Cardoso"/>
-    </td>
-    <td align="center">Addson Cardoso</td>
-    <td align="center"><a href="https://github.com/Edrey123">@addson18</a></td>
+    <td align="center">Filipe</td>
+    <td align="center"><a href="https://github.com">@</a></td>
   </tr>
 </table>
