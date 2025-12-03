@@ -39,20 +39,6 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
     <th>Nome</th>
     <th>GitHub</th>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/noemisoares.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
-    </td>
-    <td align="center">Noemi Soares</td>
-    <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Williansilva2207.png" width="100px" style="border-radius:50%;" alt="Willian Rodrigues"/>
-    </td>
-    <td align="center">Willian Rodrigues</td>
-    <td align="center"><a href="https://github.com/Williansilva2207">@Williansilva2207</a></td>
-  </tr>
     <tr>
     <td align="center">
       <img src="https://github.com/KailaneLisley.png" width="100px" style="border-radius:50%;" alt="Kailane Lisley"/>
@@ -62,10 +48,10 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ricardonerys.png" width="100px" style="border-radius:50%;" alt="Ricardo Nery"/>
+      <img src="https://avatars.githubusercontent.com/u/169162345?v=4" width="100px" style="border-radius:50%;" alt="Daniel"/>
     </td>
-    <td align="center">Ricardo Nery</td>
-    <td align="center"><a href="https://github.com/ricardonerys">@ricardonerys</a></td>
+    <td align="center">Daniel</td>
+    <td align="center"><a href="https://github.com/D4n1el20">@D4n1el20</a></td>
   </tr>
   <tr>
     <td align="center">
