@@ -1,8 +1,10 @@
-# ArqueoMap - Sistema de Gestão de Achados Arqueológicos
-<img src="https://github.com/KailaneLisley/ArqueoMap/blob/main/ArqueoMap%20logo.png" alt="Logo do ArqueoMap" width="400">
+# 🧪 ArqueoMap - Sistema de Gestão de Achados Arqueológicos
+<div align="center">
+  <img src="https://github.com/KailaneLisley/ArqueoMap/blob/main/ArqueoMap%20logo.png" alt="Logo do ArqueoMap" width="400">
+</div>
 
-## Visão Geral
-O ArqueoMap é uma plataforma de mapeamento com cadastro estruturado de achados. Ele centraliza tudo em um único ambiente:
+## 💻 Visão Geral
+O **ArqueoMap** é uma plataforma de mapeamento com cadastro estruturado de achados. Ele centraliza tudo em um único ambiente:
 - Localização exata do achado;
 - Descrição padronizada;
 - Foto ou documentação visual;
@@ -10,10 +12,10 @@ O ArqueoMap é uma plataforma de mapeamento com cadastro estruturado de achados.
 - Histórico organizado.
 A ideia é tornar o processo de registro de artefartos mais ágil, reduzir erros e facilitar o acesso às informações durante e após a expedição.
 
-## Protótipo
-[Acesse nosso protótipo](https://www.figma.com/make/vV4XIoD66dLLHvHrLe5HsD/Naveg%C3%A1vel-Prototipo-UX-UI?t=6D0rXMCp8uFbjTU5-20&fullscreen=1)
+## 🖼️ Protótipo
+- 🧪 Nosso protótipo do site feito no **FIGMA**: [📄Acesse nosso protótipo](https://www.figma.com/make/vV4XIoD66dLLHvHrLe5HsD/Naveg%C3%A1vel-Prototipo-UX-UI?t=6D0rXMCp8uFbjTU5-20&fullscreen=1)
 
-## Futuro do Projeto
+## 🔬 Futuro do Projeto
 O ArqueoMap tem potencial para evoluir e expandir para que seja possível realizar:
 - Integração com sensores e robôs do Liceu
 - Coleta automática de profundidade e localização
@@ -31,7 +33,7 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
 ### Outros
 - GitHub (controle de versão)
 
-## 💻 Equipe
+## 👨‍💻 Equipe
 
 <table align="center">
   <tr>
@@ -71,14 +73,14 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/169162345?v=4" width="100px" style="border-radius:50%;" alt="Daniel"/>
     </td>
-    <td align="center">Daniel</td>
+    <td align="center">Daniel Silva</td>
     <td align="center"><a href="https://github.com/D4n1el20">@D4n1el20</a></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/127259528?v=4" width="100px" style="border-radius:50%;" alt="Teo Vieira"/>
     </td>
-    <td align="center">Teo Vieira</td>
+    <td align="center">Theo Vieira</td>
     <td align="center"><a href="https://github.com/TheoVm">@theoVm</a></td>
   </tr>
   
@@ -95,5 +97,12 @@ O ArqueoMap tem potencial para evoluir e expandir para que seja possível realiz
     </td>
     <td align="center">Caio Cordeiro</td>
     <td align="center"><a href="https://github.com/CaioCordeiroo">@CaioCordeiroo</a></td>
+  </tr>
+      <tr>
+    <td align="center">
+      <img src="https://github.com/CaioCordeiroo/banco_de_imagens_e_videos/blob/f2db0d349a84aca76be6abc3e0c75ea4f417b534/169167753.png" width="100px" style="border-radius:50%;" alt="Felipe Mendes"/>
+    </td>
+    <td align="center">Felipe Mendes</td>
+    <td align="center"><a href="https://github.com/KailaneLisley">@felipevieiramendes</a></td>
   </tr>
 </table>
